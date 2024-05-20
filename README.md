@@ -4,12 +4,6 @@
 
 - Neste projeto foi utilizado o dataset HCC. O dataset foi feito pelo Centro Universitario e pelo Hospital de Coimbra, que contem dados clinicos de pacientes diagnosticados com HCC. O objetivo principal é criar uma inteligência artificial capaz de prever se um paciente diagnosticado com HCC irá sobreviver após 1 ano.
 
-
-## Caracteristicas do Projeto
-
-- Neste projeto foi utilizado 2 algoritmos de supervised learning, Decision Tree e o K-NN. 
-Comparamos as efeciências de ambos os algoritmos através de vários metodos como por exemplo matriz de confusão, o ROC/AUC e curva de aprendizagem.
-
 ## Download do programa e sua execução
 
 - Para que o porgrama seja executado é necessário que tenha o python instalado; caso não tenha, escreva no terminal o seguinte codigo:
@@ -32,6 +26,11 @@ Comparamos as efeciências de ambos os algoritmos através de vários metodos co
 
 - Após certeficar-se que tem todos os requisitos necessários pode executar o programa abrindo o ficheiro trabalho.ipynb no VsCode e utilize o botão "Executar Tudo".
 
+
+## Caracteristicas do Projeto
+
+- Neste projeto foi utilizado 2 algoritmos de supervised learning, Decision Tree e o K-NN. 
+Comparamos as efeciências de ambos os algoritmos através de vários metodos como por exemplo matriz de confusão, o ROC/AUC e curva de aprendizagem.
 
 # Creditos
 
