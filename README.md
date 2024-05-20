@@ -32,8 +32,6 @@
 - Neste projeto foi utilizado 2 algoritmos de supervised learning, Decision Tree e o K-NN. 
 Comparamos as efeciências de ambos os algoritmos através de vários metodos como por exemplo matriz de confusão, o ROC/AUC e curva de aprendizagem.
 
-# Open Source Project Credits
+# Creditos
 
-All the code is free to use and experiment with, but all github accounts stated bellow should be mencionned.
-
-Project made by Paulo Diogo Lopes Pinto (Diogoxyz), Filipe Neto Leão (Filipe-Leao), João Pedro Nunes Rocha.
+Projecto creado por Paulo Diogo Lopes Pinto (Diogoxyz), Filipe Neto Leão (Filipe-Leao), João Pedro Nunes Rocha.
