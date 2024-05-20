@@ -8,7 +8,7 @@
 
 - Para que o porgrama seja executado é necessário que tenha o python instalado; caso não tenha, escreva no terminal o seguinte codigo:
 
-	$ sudo apt install python3
+		$ sudo apt install python3
 
 - É necessário ter o jupyter instalado no seu compotudor; caso não tenha, escreva no terminal o seguinte codigo:
 
