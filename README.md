@@ -34,4 +34,4 @@ Comparamos as efeciências de ambos os algoritmos através de vários metodos co
 
 # Creditos
 
-Projecto creado por Paulo Diogo Lopes Pinto (Diogoxyz), Filipe Neto Leão (Filipe-Leao), João Pedro Nunes Rocha.
+Projecto creado por Paulo Diogo Lopes Pinto (Diogoxyz), Filipe Neto Leão (Filipe-Leao), João Pedro Nunes Rocha (jpnr05).
