@@ -14,7 +14,7 @@
 
         $ pip install jupyter
 
-- Além disso é necessário ter as bibliotecas matmatplotlib, scikit-learn, pandas, seaborn e numpy; caso não tenha as bibliotecas digite no terminal os seguintes comandos:
+- Além disso, é necessário ter as bibliotecas matmatplotlib, scikit-learn, pandas, seaborn e numpy; caso não tenha as bibliotecas digite no terminal os seguintes comandos:
 
         $ pip install matplotlib==3.8.4
         $ pip install scikit-learn==1.4.2
